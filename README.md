@@ -1,0 +1,2 @@
+# eray
+Patika.devVeriYapilariveAlgoritmalar
